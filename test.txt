@@ -1,1 +1,1 @@
-true
+adb shell screencap -p /sdcard/screencap.png,1
